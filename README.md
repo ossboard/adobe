@@ -8,7 +8,7 @@ adobe 제품군
 - 프로그램이 실행되면 command + f12 키를 누릅니다.
 
 
-![screensh](./adobe1.png =250x200)
+![screensh](./adobe1.png|width=200)
 
 - 콘솔창이 나오면 콘솔 - > Debug Database View를 선택
 
