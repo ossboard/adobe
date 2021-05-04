@@ -17,4 +17,6 @@ adobe 제품군
 
 - ApplicationLanguage 항목을 en_US <-> ko_KR 로 변경하고 프로그램을 종료후 재실행
 
-​
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
