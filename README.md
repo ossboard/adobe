@@ -8,15 +8,12 @@ adobe 제품군
 - 프로그램이 실행되면 command + f12 키를 누릅니다.
 
 
-![screensh](./adobe1.png | width=200)
+![screensh](./adobe1.png | width=100)
 
 - 콘솔창이 나오면 콘솔 - > Debug Database View를 선택
 
 
-![screensh](./adobe2.png =250x200)
+![screensh](./adobe2.png | width=100)
 
 - ApplicationLanguage 항목을 en_US <-> ko_KR 로 변경하고 프로그램을 종료후 재실행
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
